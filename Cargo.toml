@@ -1,5 +1,5 @@
 [package]
-name = "yatsukaho-bot"
+name = "yatsukaho-bus-timer"
 version = "0.1.0"
 edition = "2021"
 
